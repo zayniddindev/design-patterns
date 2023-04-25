@@ -1,0 +1,1 @@
+## Design patterns I learned from [Refactoring Guru](https://refactoring.guru/design-patterns/typescript)
